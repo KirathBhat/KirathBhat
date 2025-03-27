@@ -14,7 +14,7 @@ I'm a **Full Stack Web Developer** from India, passionate about building sleek, 
 - Improving performance optimization techniques.
 
 ### 🌐 **My Projects**
-- **[Windows 10 Clone](https://github.com/KirathBhat/windows-10-replica)** - A windows 10 GUI based replica showcasing the Desktop experience of Windows 10 Operating system
+- **[Windows 10 Clone](https://kirath-windowsreplica.netlify.app)** - A windows 10 GUI based replica showcasing the Desktop experience of Windows 10 Operating system
 - **[Amazon Clone](https://github.com/KirathBhat/Amazon-Webpage)** - A responsive replica of Amazon UI design
 - **[GYM SignUp](https://github.com/KirathBhat/Backend-Supported-Gym-Webpage)** - A fully responsive and back-end supporting gym website
 
