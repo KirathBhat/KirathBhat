@@ -27,7 +27,7 @@ I'm a **Full Stack Web Developer** from India, passionate about building sleek, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### 📬 **Let's Connect!**
-- ✉️ [Email Me](mailto:kirathuv2009@gmail.com)
+- ✉️ [Email Me](mailto:kirath.gamer1@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kirath-bhat)
 - 🌐 [My Portfolio](https://kirathbhat.me)
 
