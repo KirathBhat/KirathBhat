@@ -25,6 +25,9 @@ I'm a **Full Stack Web Developer** from India, passionate about building sleek, 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
+
 
 ### 📬 **Let's Connect!**
 - ✉️ [Email Me](mailto:kirath.gamer1@gmail.com)
