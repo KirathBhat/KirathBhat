@@ -27,6 +27,7 @@ I'm a **Full Stack Web Developer** from India, passionate about building sleek, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
 
 
 ### 📬 **Let's Connect!**
