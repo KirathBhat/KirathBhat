@@ -29,6 +29,7 @@ I'm a **Full Stack Web Developer** from India, passionate about building sleek, 
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-black?logo=three.js&logoColor=white)
+![bCryptJS](https://img.shields.io/npm/v/bcryptjs)
 
 
 
